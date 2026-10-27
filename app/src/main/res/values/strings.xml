@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">TaskTrack</string>
+    <string name="splash_subtitle">SZABIST-ISB | Dept of Robotics &amp; AI</string>
+    <string name="btn_get_started">Get Started</string>
+    <string name="login_title">Welcome Back</string>
+    <string name="login_subtitle">Sign in to continue tracking your tasks</string>
+    <string name="email_hint">Email Address</string>
+    <string name="password_hint">Password</string>
+    <string name="btn_login">Login</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="no_account">Don\'t have an account? Sign Up</string>
+
+    <string name="register_title">Create Account</string>
+    <string name="register_subtitle">Sign up to get started with TaskTrack</string>
+    <string name="name_hint">Full Name</string>
+    <string name="confirm_password_hint">Confirm Password</string>
+    <string name="btn_register">Register</string>
+    <string name="have_account">Already have an account? Login</string>
+
+    <string name="forgot_title">Reset Password</string>
+    <string name="forgot_subtitle">Enter your email to receive a password reset link</string>
+    <string name="btn_send_link">Send Reset Link</string>
+    <string name="back_to_login">Back to Login</string>
+
+    <string name="new_password_hint">New Password</string>
+    <string name="btn_reset_password">Update Password</string>
+
+    <string name="dashboard_title">TaskTrack Dashboard</string>
+    <string name="menu_task_list">Task List</string>
+    <string name="menu_add_task">Add Task</string>
+    <string name="menu_reminders">Reminders</string>
+    <string name="menu_categories">Categories</string>
+    <string name="menu_progress">Progress</string>
+    <string name="menu_profile">Profile</string>
+
+    <string name="profile_title">User Profile</string>
+    <string name="university_label">SZABIST Islamabad Campus</string>
+    <string name="department_label">Department of Robotics &amp; AI</string>
+    <string name="class_label">BS (AI) - 5A</string>
+    <string name="btn_logout">Logout</string>
+
+    <string name="task_list_title">My Tasks</string>
+    <string name="add_task_title">Add New Task</string>
+    <string name="task_title_hint">Task Title</string>
+    <string name="task_desc_hint">Task Description / Notes</string>
+    <string name="category_label">Category: Work / Study / Personal</string>
+    <string name="btn_save_task">Save Task</string>
+
+    <string name="progress_title">Progress Tracker</string>
+    <string name="completed_tasks">Completed Tasks: 4</string>
+    <string name="pending_tasks">Pending Tasks: 2</string>
+</resources>
